@@ -1,1 +1,1 @@
-# mindjobmedia.github.io
+# psychic_game
