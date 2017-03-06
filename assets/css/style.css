@@ -2,7 +2,7 @@
   margin: 0;
 }
 
-body{
+body {
 	color: #39393a;
 	font-size: 18px;
 	line-height: 34px;
@@ -11,7 +11,7 @@ body{
     height: 100%;  	
 }
 
-h1{
+h1 {
 	font-size: 38px;
 	font-weight: bold;
 	color: #0f3e8d;
@@ -29,11 +29,11 @@ h1{
 	font-family: Georgia, Serif;
 	color: #0f3e8d;
 }
-#stats{
+#stats {
 	text-align: left;
 	margin-left: 30px;
 }
 
-#strong{
+#strong {
 	font-weight: bold;
 }
